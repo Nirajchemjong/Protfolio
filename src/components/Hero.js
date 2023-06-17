@@ -1,7 +1,7 @@
 import React from "react";
 import subject from "../assets/Subject.png";
 import Resume from "../assets/Pariwesh.Resume.pdf";
-import { Layout } from "./Layout";
+// import { Layout } from "./Layout";
 
 export const Hero = () => {
   return (
